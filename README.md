@@ -1,2 +1,2 @@
-# loan-default-management-system-usind-ml
+# loan-default-management-system-using-ml
 Author-Vaishnavi Shukla
